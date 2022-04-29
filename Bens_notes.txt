@@ -1,2 +1,4 @@
 29APR22 [10:30a - ]
-Making linux compatible 
+Moved sample files to correct directory
+Made file paths linux compatible
+added directory creation for folders if doesnt exist
