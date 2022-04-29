@@ -1,4 +1,10 @@
-29APR22 [10:30a - ]
+29APR22 [10:30a - 13:30]
+Added .gitignore for generated images and gifs
 Moved sample files to correct directory
 Made file paths linux compatible
-added directory creation for folders if doesnt exist
+Added directory creation for folders if doesnt exist
+Added exception handling for pyplot.savefigure() .jpg format error - unsure why Pillow is not resolving this issue
+Gif now rendering from .png as well
+
+Future TODO: 
+- gif not rendering in order?
