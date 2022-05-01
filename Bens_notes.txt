@@ -8,3 +8,7 @@ Gif now rendering from .png as well
 
 Future TODO: 
 - gif not rendering in order?
+
+29APR22 [4:30p - ]
+- Resolved issue with opening more than 20 figures
+- Changed plt to fig in order to ensure the same figure it being cleared
