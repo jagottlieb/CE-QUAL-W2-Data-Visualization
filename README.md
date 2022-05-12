@@ -14,6 +14,10 @@ With a shell/terminal open to your working directory, run `pip3 install -r requi
 
 #### Virtual Environments
 
+Note: If using Anaconda or miniconda, do not use venv
+
+Run `pip install virtualenv`
+
 From Powershell, in your working directory, run `python -m venv venv`
 
 If you are using the Command Line:
