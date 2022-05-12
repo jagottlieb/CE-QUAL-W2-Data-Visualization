@@ -3,3 +3,6 @@
 *.png
 *.gif
 Statistics.csv
+
+# Virtual Environments
+venv/
