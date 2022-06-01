@@ -1,0 +1,8 @@
+# Images and Gifs
+*.jpg
+*.png
+*.gif
+Statistics.csv
+
+# Virtual Environments
+venv/
